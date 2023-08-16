@@ -3,7 +3,7 @@
 ## Aim:
 To write C# program to find the eligibility for admission to an engineering course
 
-## Algorithnm:
+## Algorithm:
 Start the program and declare the variables required.
 
 Obtain the input from the user and read the values.
@@ -18,7 +18,7 @@ End the program.
 DEVELOPED BY : SITHI HAJARA I
 REG NO : 212221230102
 ```
-```python
+```
 using System;
 using System.Xml.Linq;
 
